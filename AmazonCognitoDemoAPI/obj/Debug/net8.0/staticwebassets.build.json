@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x+dm5eHYldc1j8k3R56phm/OYckebtP9zczXfbdE8Ws=",
+  "Source": "AmazonCognitoDemoAPI",
+  "BasePath": "_content/AmazonCognitoDemoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

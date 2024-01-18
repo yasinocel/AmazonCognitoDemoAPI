@@ -1,0 +1,6 @@
+@AmazonCognitoDemoAPI_HostAddress = http://localhost:5260
+
+GET {{AmazonCognitoDemoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
